@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taller_Cuatro_Ximena</string>
+    <string name="str_1">USERS</string>
+    <string name="str_2">Actualizar Datos</string>
+    <string name="str_3">POSTS</string>
+    <string name="str_4">COMMENTS</string>
+
+</resources>
